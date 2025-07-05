@@ -1,0 +1,53 @@
+Extracted Mathematical Formula:
+========================================
+
+Best Formula: x29*0.0010396492 + 0.4964142
+
+LaTeX Format: x_{29} \cdot 0.00104 + 0.496
+
+Model Performance on Test Set:
+MSE: 0.000000
+MAE: 0.000350
+R²: 0.849072
+
+Feature Information:
+--------------------
+X0: mean_bits
+X1: std_bits
+X2: sum_ones
+X3: sum_zeros
+X4: last_3_mean
+X5: last_3_std
+X6: last_3_sum
+X7: pattern_freq_3
+X8: last_5_mean
+X9: last_5_std
+X10: last_5_sum
+X11: pattern_freq_5
+X12: last_7_mean
+X13: last_7_std
+X14: last_7_sum
+X15: pattern_freq_7
+X16: last_10_mean
+X17: last_10_std
+X18: last_10_sum
+X19: pattern_freq_10
+X20: last_15_mean
+X21: last_15_std
+X22: last_15_sum
+X23: pattern_freq_15
+X24: transition_rate
+X25: run_mean
+X26: run_max
+X27: run_min
+X28: run_std
+X29: bit_pos_1
+X30: bit_pos_2
+X31: bit_pos_3
+X32: bit_pos_4
+X33: bit_pos_5
+X34: bit_pos_6
+X35: bit_pos_7
+X36: bit_pos_8
+X37: bit_pos_9
+X38: bit_pos_10
